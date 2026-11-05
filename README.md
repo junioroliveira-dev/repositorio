@@ -1,2 +1,2 @@
-# Repositorio
-primeiro repositorio na minha carreira como DEV 
+# Repositório
+primeiro repositório na minha carreira como DEV 
